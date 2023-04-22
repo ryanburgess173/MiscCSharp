@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{6A74F265-F023-4839-9B6D-11D74421FAD9}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/johnathanburgess/Projects/LeetCode/LeetCode/SolutionAddTwoNumbers.cs" relfile="LeetCode/SolutionAddTwoNumbers.cs" line="23" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="LeetCode/Program.cs">
+    <Files>
+      <File FileName="LeetCode/Program.cs" Line="3" Column="36" />
+      <File FileName="LeetCode/SolutionAddTwoNumbers.cs" Line="21" Column="6" />
+      <File FileName="LeetCode/ListNode.cs" Line="1" Column="1" />
+      <File FileName="LeetCode/SolutionTwoSum.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="LeetCode" expanded="True">
+            <Node name="LeetCode" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.LeetCode PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
