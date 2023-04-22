@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{63A29549-6759-4667-954B-D36188D195B1}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="AdvancedTopicsInCSharp/Generics/BookList.cs">
+    <Files>
+      <File FileName="AdvancedTopicsInCSharp/Program.cs" />
+      <File FileName="AdvancedTopicsInCSharp/Generics/BookList.cs" Line="30" Column="4" />
+      <File FileName="AdvancedTopicsInCSharp/Generics/Book.cs" />
+      <File FileName="AdvancedTopicsInCSharp/Generics/Utilities.cs" />
+      <File FileName="AdvancedTopicsInCSharp/Generics/DiscountCalculator.cs" />
+      <File FileName="AdvancedTopicsInCSharp/Generics/Product.cs" />
+      <File FileName="AdvancedTopicsInCSharp/Generics/Nullable.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="AdvancedTopicsInCSharp" expanded="True">
+            <Node name="AdvancedTopicsInCSharp" expanded="True">
+              <Node name="Generics" expanded="True">
+                <Node name="BookList.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.AdvancedTopicsInCSharp PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
